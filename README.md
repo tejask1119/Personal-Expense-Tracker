@@ -64,6 +64,9 @@ python -m streamlit run app.py
 
 The dashboard displays spending summaries, monthly budget usage, category-wise charts, and recent transactions.
 
+![Personal Expense Tracker Dashboard](Screenshot%202026-10-20%20201452.png)
+
+
 ## 👨‍💻 Developer
 
 **Tejas Kasav**
